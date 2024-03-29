@@ -1,0 +1,47 @@
+{
+  "articles/building/dhd.html": {
+    "href": "articles/building/dhd.html",
+    "title": "DHD | The Stargate Project",
+    "keywords": "DHD https://thestargateproject.com/making-the-dhdv2/ https://thestargateproject.com/make-dhd-keyboard-pcb/ Soldering and assembly process Programming the DHD PCB"
+  },
+  "articles/building/intro.html": {
+    "href": "articles/building/intro.html",
+    "title": "Building | The Stargate Project",
+    "keywords": "Building Pages Stargate DHD"
+  },
+  "articles/building/stargate.html": {
+    "href": "articles/building/stargate.html",
+    "title": "Stargate | The Stargate Project",
+    "keywords": "Stargate https://thestargateproject.com/making-the-stargate/ Assembling the sg1 stargate Build a Stargate yourself? https://thestargateproject.com/build-a-stargate-and-dhd-3d-printed/ Made with https://easyeda.com/ Chevron DHD schematics https://en.wikipedia.org/wiki/.sch_(file_extension)"
+  },
+  "articles/intro.html": {
+    "href": "articles/intro.html",
+    "title": "Kristian’s Stargate project | The Stargate Project",
+    "keywords": "Kristian’s Stargate project https://thestargateproject.com/ I have a made a “working” Stargate model from the SG1 TV-show. It spins, the chevrons move and lights up and when a correct address is dialled, the wormhole is established. The wormhole is an infinity mirror effect. The stargate is controlled with a DHD. You can check out the video presentation of the Stargate in action here: Kristian's Stargate Project Dialing from Stargate to Stargate"
+  },
+  "articles/painting/intro.html": {
+    "href": "articles/painting/intro.html",
+    "title": "Painting | The Stargate Project",
+    "keywords": "Painting https://thestargateproject.com/painting-the-stargate/ https://thestargateproject.com/2020/08/10/painting-the-stargate-part-1/ Materials Materials"
+  },
+  "articles/painting/materials.html": {
+    "href": "articles/painting/materials.html",
+    "title": "Materials | The Stargate Project",
+    "keywords": "Materials"
+  },
+  "articles/parts/crimping.html": {
+    "href": "articles/parts/crimping.html",
+    "title": "Crimping | The Stargate Project",
+    "keywords": "Crimping"
+  },
+  "articles/parts/intro.html": {
+    "href": "articles/parts/intro.html",
+    "title": "Parts | The Stargate Project",
+    "keywords": "Parts Crimping Buy https://www.etsy.com/uk/shop/PLHElectronics Old https://www.etsy.com/shop/BuildAStargate"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "The Stargate Project | The Stargate Project",
+    "keywords": "The Stargate Project A set of Articles to run building Kristian’s Stargate project . Check out the Articles"
+  }
+}

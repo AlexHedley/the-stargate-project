@@ -1,0 +1,319 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/src",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/building/dhd.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/building/dhd.html",
+          "hash": "26dGZFQBTWXxZsIVh8bTJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/Chevron_v1.1.0.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/Chevron_v1.1.0.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/DHD_schematic_14.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/DHD_schematic_14.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/DHD_schematic_24.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/DHD_schematic_24.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/DHD_schematic_34.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/DHD_schematic_34.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/DHD_schematic_44.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/DHD_schematic_44.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/Schematic_Stargate-Wiring-Diagram.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/Schematic_Stargate-Wiring-Diagram.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/Schematic_Stargate-Wiring-Diagram_v1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/Schematic_Stargate-Wiring-Diagram_v1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/Stargate_Power_schematic.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/Stargate_Power_schematic.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/building/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/building/intro.html",
+          "hash": "BPCMed3MdGXV7dIPUGYWPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/building/stargate.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/building/stargate.html",
+          "hash": "cjv5gS3AF39Ia9iRRAsrQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "LllcF+lUE4KUY7xfIizdZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/painting/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/painting/intro.html",
+          "hash": "zcH7vyU5QSdkiHlAYf8SkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/painting/materials.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/painting/materials.html",
+          "hash": "Qmxpi6ZhBTj8pJjNVhAWrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/parts/crimping.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/parts/crimping.html",
+          "hash": "SWzFlXruQB+MLZwFJn6vOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/parts/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/parts/intro.html",
+          "hash": "roCMOxns8QqiU79h/11sBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "EQIfvfmP4+TPWuH2gzUUog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Stargate_Command.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Stargate_Command.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Stargate_Command_48.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Stargate_Command_48.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "oDjC3Zd2XjJHgyii/RM35A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "pKV8tlE0iQhgO9RLvAvDPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
