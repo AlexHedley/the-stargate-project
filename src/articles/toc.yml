@@ -1,0 +1,8 @@
+- name: Introduction
+  href: intro.md
+- name: Building
+  href: building/toc.yml
+- name: Parts
+  href: parts/toc.yml
+- name: Painting
+  href: painting/toc.yml
