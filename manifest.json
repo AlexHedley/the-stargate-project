@@ -14,6 +14,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/building/connectors.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/building/connectors.html",
+          "hash": "v1LAJA1For/9OzfN0LXS/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/building/dhd.md",
       "output": {
         ".html": {
@@ -113,6 +125,61 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/connectors/image1.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/connectors/image1.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/connectors/image2.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/connectors/image2.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/connectors/image3.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/connectors/image3.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/connectors/image4.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/connectors/image4.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/building/images/connectors/image5.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/building/images/connectors/image5.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "articles/building/intro.md",
       "output": {
@@ -149,6 +216,17 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "articles/painting/images/BlackGessoPrimer.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/painting/images/BlackGessoPrimer.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "articles/painting/intro.md",
       "output": {
@@ -166,7 +244,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/painting/materials.html",
-          "hash": "Qmxpi6ZhBTj8pJjNVhAWrg=="
+          "hash": "ajF0dsZ/9XunpzdAzqJySA=="
         }
       },
       "is_incremental": false,
@@ -202,7 +280,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "EQIfvfmP4+TPWuH2gzUUog=="
+          "hash": "5gWPQtKdeVthckCc9To7kA=="
         }
       },
       "is_incremental": false,
@@ -280,7 +358,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 9,
+          "total_file_count": 10,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
