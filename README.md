@@ -7,11 +7,12 @@
 [![Built With: DocFX](https://img.shields.io/badge/Built_With-DocFX-yellowgreen.svg?style=for-the-badge)](https://dotnet.github.io/docfx/)
 <!-- [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) -->
 
-<!-- [![github pages](https://github.com/AlexHedley/the-stargate-project/actions/workflows/build-site.yml/badge.svg)](https://github.com/AlexHedley/the-stargate-project/actions/workflows/build-site.yml) -->
+[![github pages](https://github.com/AlexHedley/the-stargate-project/actions/workflows/build-site.yml/badge.svg)](https://github.com/AlexHedley/the-stargate-project/actions/workflows/build-site.yml)
+[![pages-build-deployment](https://github.com/AlexHedley/the-stargate-project/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AlexHedley/the-stargate-project/actions/workflows/pages/pages-build-deployment)
 
 ---
 
-A set of Articles to run building [Kristian’s Stargate project](https://thestargateproject.com/).
+A set of articles to help build [Kristian’s Stargate project](https://thestargateproject.com/).
 
 - [Site](https://AlexHedley.github.io/the-stargate-project)
   - [local](http://localhost:8080)
