@@ -28,7 +28,7 @@ jobs:
     
     steps:
       - name: 🚚 Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       
       # https://github.com/marketplace/actions/docfx-action
       - name: ⚙ docfx-action
